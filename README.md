@@ -1,6 +1,6 @@
-## Ingenieria de Software II - Práctica 3: Construcción Automática
+# Ingenieria de Software II - Práctica 3: Construcción Automática
 
-# Objetivo:
+## Objetivo:
 Configurar y usar una herramienta
 de construcción automática de software en un proyecto personal (Proyecto grupal
 del curso de Ing. De Software I).
