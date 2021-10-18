@@ -1,3 +1,77 @@
+## Ingenieria de Software II - Práctica 3: Construcción Automática
+
+# Objetivo:
+Configurar y usar una herramienta
+de construcción automática de software en un proyecto personal (Proyecto grupal
+del curso de Ing. De Software I).
+
+[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/ElizabethYasmin)
+[![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/ElizabethYasmin/EDA)
+
+## Menu
+- [Huanca Parqui, Elizabeth Yasmin](#Huanca)
+- [Valdivia Quispe, Eduardo Felipe](#Valdivia)
+- [Quispe Huanca, Joselyn Lizeth](#Quispe)
+
+## Huanca
+
+Red | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `ehuancap@unsa.edu.pe`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://github.com/ElizabethYasmin`
+
+
+## Valdivia
+
+Red | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `evaldiviaq@unsa.edu.pe`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://github.com/FeiderED`
+
+## Quispe
+
+Red | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `joquispehua@unsa.edu.pe`
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | `https://github.com/Joselyn7`
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/62725994?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Elizabeth Huanca</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/59418995?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Eduardo Felipe</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/64213758?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Joselyn Lizeth</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  
+</table>
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
